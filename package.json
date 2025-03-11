@@ -1,0 +1,22 @@
+{
+  "name": "incubyte",
+  "version": "1.0.0",
+  "main": "StringCalculator.js",
+  "scripts": {
+    "test": "jest StringCalculator.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanwiz13/string-calculator.git"
+  },
+  "author": "tanvir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanwiz13/string-calculator/issues"
+  },
+  "homepage": "https://github.com/tanwiz13/string-calculator#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
